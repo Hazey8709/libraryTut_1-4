@@ -9,7 +9,8 @@
 **School**: *Full-Sail* <br>
 **Project**: *WDV229 Mod 1.4 Library Tutorial* <br>
 **Email**: *JMFortin@student.fullsail.edu* <br>
-**Tutorial Link**: <br>
+**Microsoft Stream Link**: <br>
+**YouTube Link**:  *https://youtu.be/CuHH71vcCsw* <br>
 
 
 
@@ -25,9 +26,12 @@
 
 # Details:
 
-**Use**: *NPM, Express Axios, Cheerio.*
+**Use**: *NPM, Express, Axios, nodemon, dotenv, jest.*   <br>
+*I picked this project to demonstrate some of many packages that can be used from NPM. <br>
+NPM (Node Package Manager) has countless packages that are useful. I mainly wanted to <br>
+show how easy it is to use NPM packages In a short video.* <br>
 
- Write details !!!!!
+
 
 
 <br>
