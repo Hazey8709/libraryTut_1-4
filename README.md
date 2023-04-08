@@ -7,6 +7,7 @@
 
 **Author**: *Jordan Fortin*  <br>
 **School**: *Full-Sail* <br>
+**Project**: *WDV229 Mod 1.4 Library Tutorial* <br>
 **Email**: *JMFortin@student.fullsail.edu* <br>
 **Tutorial Link**: <br>
 
